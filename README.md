@@ -1,41 +1,16 @@
-Olá, Mundo! Eu sou Lívia Pessoa 👋✨
+Olá, Mundo! Eu sou Lívia 👋✨
 
-Tenho 30 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
-Gosto de transformar dados em informação útil, com olhar curioso, organizado e prático.
-
-💡 Sobre mim
-
-Curiosa, comunicativa e com pensamento crítico.
-
-Gosto de documentar bem e deixar processos claros para outras pessoas.
+Apaizonada por Tech, sou Curiosa, comunicativa e com pensamento crítico.
 
 Interesse por análise de dados, métricas e apoio à tomada de decisão.
 
 🛠️ Habilidades Técnicas
 
-Python
-
-SQL (básico)
-
-Excel e Google Sheets (avançados)
-
-Power BI
-
-LangFlow
-
-IA Generativa
-
-Big Data (conceitos)
+Python - SQL (básico) - Excel e Google Sheets (avançados) - Power BI - LangFlow - IA Generativa - Inglês Avançado
 
 🧠 Competências comportamentais
 
-Pensamento crítico
-
-Curiosidade
-
-Boa comunicação
-
-Inglês
+Pensamento crítico - Curiosidade - Boa comunicação - Colaboração - Aprendizado rápido
 
 📚 O que estou estudando agora
 
