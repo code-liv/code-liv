@@ -1,4 +1,4 @@
-# **Olá, Mundo! Eu sou a Lívia Pessoa 🙌✨**
+# **Olá, Mundo! Eu sou Lívia✨**
 
 Apaixonada por Tech. Sou curiosa, comunicativa e com pensamento crítico.
 Interesse por **análise de dados**, **métricas** e **apoio à tomada de decisão**.
