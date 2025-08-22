@@ -16,7 +16,4 @@ Interesse por **análise de dados**, **métricas** e **apoio à tomada de decis�
 ## **🧠 Competências Comportamentais**
 - **Pensamento crítico** · **Curiosidade** · **Boa comunicação** · **Colaboração** · **Aprendizado rápido**
 
-## **📚 O que estou estudando agora**
-- Organização de ambientes de análise (**Conda/Jupyter**)
-- Boas práticas de manipulação de dados (limpeza, tipos, consistência)
-- Interpretação de métricas comuns (ex.: **AUC**, **KS**) e como ajudam na decisão
+
