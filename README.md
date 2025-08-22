@@ -10,7 +10,6 @@ Interesse por **análise de dados**, **métricas** e **apoio à tomada de decis�
 - **SQL (básico)**
 - **Excel** e **Google Sheets** (avançados)
 - **Power BI**
-- **Big Data** (conceitos)
 - **IA Generativa** e **LangFlow** (assistentes de IA para análise e insights)
 - **APIs**: desenvolvimento de sistemas de **monitoramento** e integrações
 
