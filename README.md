@@ -1,6 +1,6 @@
 Olá, Mundo! Eu sou Lívia 👋✨
 
-Apaizonada por Tech, sou Curiosa, comunicativa e com pensamento crítico.
+Apaixonada por Tech, sou Curiosa, comunicativa e com pensamento crítico.
 
 Interesse por análise de dados, métricas e apoio à tomada de decisão.
 
