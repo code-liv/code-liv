@@ -11,7 +11,7 @@ Interesse por **análise de dados**, **métricas** e **apoio à tomada de decis�
 - **Excel** e **Google Sheets** (avançados)
 - **Power BI**
 - **IA Generativa** e **LangFlow** (assistentes de IA para análise e insights)
-- **APIs**: desenvolvimento de sistemas de **monitoramento** e integrações
+- **Inglês Avançado**
 
 ## **🧠 Competências Comportamentais**
 - **Pensamento crítico** · **Curiosidade** · **Boa comunicação** · **Colaboração** · **Aprendizado rápido**
