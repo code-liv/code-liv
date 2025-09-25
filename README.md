@@ -7,7 +7,7 @@ Interesse por **análise de dados**, **métricas** e **apoio à tomada de decis�
 
 ## **🧰 Habilidades Técnicas**
 - **Python**
-- **SQL (básico)**
+- **SQL**
 - **Excel** e **Google Sheets** (avançados)
 - **Power BI**
 - **IA Generativa** e **LangFlow** (assistentes de IA para análise e insights)
